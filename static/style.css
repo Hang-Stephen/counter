@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    color: red;
+    margin: 50px;
+}
+
+.counts {
+    text-align: center;
+}
+
+.row {
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.actions {
+    margin: 15px;
+    padding: 10px;
+    
+}
+
+.add {
+    background-color: lightgreen;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+.reset {
+    background-color: red;
+    border-radius: 15px;
+    border: 2px solid black;
+}
